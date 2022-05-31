@@ -1,0 +1,18 @@
+{
+  "tours":[
+    {
+"id":1,
+"name":"3 day package for chikaldara Amravati maharashtra",
+"info":"Chikhaldara is a hill station and a municipal council in Amravati district in the Indian state of Maharashtra. Featured in the epic of the Mahabharata, this is the place where Bheema killed the villainous Keechaka in a herculean bout and then threw him into the valley.",
+"price":"2500rs",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMHGOtOXHn2Q381XedeTPwQmsVBf5W6eJgKgMZCiQSQ&s"
+    },
+    {
+      "id":2,
+      "name":"2 day package for Katepurna Dam mahan maharashtra",
+      "info":"Mahan Dam (Katepurna) is best tourist place and one of the top and best destinations for family and friends in the field of park, near about all area is covered under water and jungle safari all animals you can take pleasure and enjoy your day  with yours loved ones Water Parks and resort category in Akola.",
+      "price":"2000rs",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRl45k2Ur0AUKEMbqEgwE58z-7ca7B3IInYYfpUSa_A&s"
+          }
+  ]
+}
